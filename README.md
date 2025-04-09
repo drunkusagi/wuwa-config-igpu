@@ -6,3 +6,4 @@ I'm playing Wuthering Waves on my laptop, which has specs that are less than ide
 For all the CVars commands, I collected them from other people who had already created similar configuration files. I made slight adjustments to better fit my laptop's specs.
 
 - [x] Optimized for iGPU
+- [x] For PC or laptop only
